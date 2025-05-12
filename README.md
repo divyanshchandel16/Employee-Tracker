@@ -44,14 +44,6 @@ This application is designed to streamline team productivity and enhance task tr
 
 ---
 
-## Team Members
-This project was a collaborative effort with significant contributions from:
-- **Divyansh Chandel (Team Lead):** Managed overall project coordination and development, including ensuring smooth integration of features and resolving cross-functional challenges.
-- **Ashish:** Focused on implementing **Login** functionality and **Analytics** features. Ashish overcame challenges related to managing user sessions and visualizing complex data efficiently.
-- **Sapna:** Designed and implemented the **User Interface** and **Gamification** features like points, Leaderboard and Team Challenges. Sapna addressed issues such as maintaining responsive designs across devices and integrating gamified elements seamlessly into the user experience.
-
----
-
 ## Technologies Used
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Firebase Realtime Database, Axios for API requests
