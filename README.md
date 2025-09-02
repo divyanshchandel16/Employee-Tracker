@@ -6,16 +6,6 @@ Deployed Project Link-[EmployeeTaskTracker](https://employeetasktrackerapplicati
 
 Video Presentation-[Team presentation](https://youtu.be/f5nt9te9D5I?si=MYfycZ_EJAWp74_j)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Team Members](#team-members)
-4. [Technologies Used](#technologies-used)
-5. [Setup Instructions](#setup-instructions)
-6. [File Structure](#file-structure)
-7. [Usage](#usage)
-8. [License](#license)
-
 ---
 
 ## Introduction
