@@ -1,4 +1,4 @@
-# Project Title
+# Project Description
 A Team Productivity and Performance Tracking Application for Employees and Employers
 
 ---
